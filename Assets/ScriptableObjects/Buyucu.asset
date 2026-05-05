@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8bd02c982d97fa544915c7bd434deeed, type: 3}
-  m_Name: NewCard
+  m_Name: Buyucu
   m_EditorClassIdentifier: 
-  cardName: 
-  description: 
-  attack: 0
-  health: 0
-  artwork: {fileID: 0}
+  cardName: Buyucu
+  description: "Yuksek hasar ama d\xFC\u015F\xFCk cana sahip b\xFCy\xFCc\xFC kart\u0131"
+  attack: 5
+  health: 2
+  artwork: {fileID: 1475339845434297033, guid: c55bb368795570d48898a843a3b9cf45, type: 3}

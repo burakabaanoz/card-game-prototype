@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bd02c982d97fa544915c7bd434deeed, type: 3}
+  m_Name: Savasci
+  m_EditorClassIdentifier: 
+  cardName: Savasci
+  description: "G\xFC\xE7l\xFC bir sava\u015F\xE7\u0131 ortalama de\u011Ferlere sahip."
+  attack: 3
+  health: 3
+  artwork: {fileID: -642411974492485328, guid: 9813bd2423365be4fb51f04c99f4b89f, type: 3}
